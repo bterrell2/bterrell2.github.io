@@ -1,3 +1,20 @@
 {
-  "username" : "bterrell2"
+	"username": "bterrell2",
+	"goals": [{
+			"goal": "Create a clean and well designed website",
+			"confidence": 80
+		},
+		{
+			"goal": "Make a B or above",
+			"confidence": 75
+		},
+		{
+			"goal": "Possibly design a mobile application",
+			"confidence": 85
+		},
+		{
+			"goal": "Get as close to 100% attendance as I can",
+			"confidence": 95
+		}
+	]
 }
