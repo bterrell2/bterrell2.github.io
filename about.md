@@ -9,7 +9,7 @@ I'm a computer Science major at Murray State University. My study habits aren't 
 
 ## Contact Information
 
-[GitHub](http://www.github.com/bterrell2.github.io) 
+[GitHub](http://www.github.com/bterrell2) 
 [Email](mailto:bterrell2@murraystate.edu)
 
 
