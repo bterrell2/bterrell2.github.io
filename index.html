@@ -1,16 +1,10 @@
-<!doctype html>
-<html>
-	<head>
-		<title>My Project Diary</title>
-	</head>
-	<body>
-		<h1>My Project Diary</h1>
-		<p>Dear Project Diary...</p>
-		<article>
-			<h2>My Project Was Mean To Me Today</h2>
-			<p>I really try to be nice to my code and my IDE, but today they were treating me awfully.
-			Maven took, literally, hours to load then my assignment was late. </p>
-			<p><a href= ""></a></p>
-		</article>
-	</body>
-</html>
+---
+title: pwright4's projects
+layout: main
+---
+
+{% for post in site.posts %}
+  <h2><a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a></h2>
+  {{ post.excerpt }}
+  <a href="{{site.baseurl}}{{post.url}}">Read More</a>
+{% endfor %}
