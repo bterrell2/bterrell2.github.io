@@ -3,8 +3,6 @@ title: Another Post
 layout: post
 ---
 
-This is just another post to make sure that your loop is working as expected.
+## My Thoughts Today
 
-## Another Section
-
-Just a little more text.
+Man I really want a cat. I can't afford one at the moment though. I look forward to the day where I can again.
