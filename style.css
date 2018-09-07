@@ -1,12 +1,15 @@
-body {
-  background-color: #4262f4;
-  a:link {
+ a:link {
     color: #00b377;
 }
+
 a:visited {
     color: #00994d;
 }
+
 a:hover {
     color: #33ffad;
 }
+
+body {
+  background-color: #4262f4;
 }
