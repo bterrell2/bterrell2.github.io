@@ -3,16 +3,16 @@ layout: main
 title: About
 ---
 
-## pwright4
+## bterrell2
 
-This is just a page where you can put whatever content you'd like.
+A computer Science major at Murray State University. My study habits aren't the best, but when I get enough time to actually use a language, i can pick it up well enough.
 
 ## Contact Information
 
-Here you could, for instance, link to your [GitHub](http://www.github.com/pwright4) or 
-[Twitter](http://www.twitter.com/msupwright4) profiles.
+[GitHub](http://www.github.com/bterrell2.github.io) 
+[Email](mailto:bterrell2@murraystate.edu)
 
-## Other Pages
 
-You can also add pages other than an about page by just creating a markdown file in your 
-repository's directory structure where you want the page to appear.
+## Other Places You Can Find Me
+
+I wont be including links here, but on any major gaming platform i go by retrosonic90. Kind of a cheesey name, but I've used it for years. These platforms include: Twitter, Xbox Live, Playstation Network (retrosonic9), the Nintendo Network, Steam, reddit, youtube, and a few other sites.
